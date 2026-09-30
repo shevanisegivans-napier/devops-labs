@@ -1,0 +1,9 @@
+target/
+.mvn/
+.idea/
+*.iml
+.DS_Store
+
+# Extra setup folders—keep out of the lab repository
+/devops-labs/
+/devops_labs/
